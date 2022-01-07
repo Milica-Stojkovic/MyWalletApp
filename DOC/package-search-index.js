@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"mywalletapp"},{"l":"mywalletapp.excel"},{"l":"mywalletapp.menu"}];updateSearchResults();
