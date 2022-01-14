@@ -16,9 +16,21 @@ User can therefor edit user profile details, but only Name and Password are edit
 On first application start, a new database (Excel) will be created and will be in use for data storing.
 While excel file exists, all data will be read from the file initially, but also new changes will be stored or updated.
 
-Other options are:
+Available options are:
 - Account Creation
-- 
+  -  Domestic (RSD)
+  -  Foreign (EUR)
+- My Accounts
+  - Accounts list
+  - Delete an account 
+- Transactions
+  - Deposit
+  - Withdrawal
+  - Transactions list
+- My Prfofile
+  - Update profile
+  - Show password
+- LogOut
 
 
 
